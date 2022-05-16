@@ -1,9 +1,0 @@
-{
-    "python.autoComplete.extraPaths": [
-        "c:\\Users\\TrueFan\\.vscode\\extensions\\stefanwehr.write-your-python-program-0.16.7\\python\\src\\"
-    ],
-    "python.linting.enabled": false,
-    "python.analysis.extraPaths": [
-        "c:\\Users\\TrueFan\\.vscode\\extensions\\stefanwehr.write-your-python-program-0.16.7\\python\\src\\"
-    ]
-}
